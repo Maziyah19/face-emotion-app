@@ -1,7 +1,10 @@
 streamlit
-opencv-python
+opencv-python-headless
 matplotlib
 pillow
 moviepy
-fer
+imageio-ffmpeg
+scipy
+mtcnn
 tensorflow==2.11.0
+fer
