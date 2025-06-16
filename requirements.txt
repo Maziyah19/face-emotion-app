@@ -3,3 +3,4 @@ fer
 opencv-python
 matplotlib
 Pillow
+moviepy
